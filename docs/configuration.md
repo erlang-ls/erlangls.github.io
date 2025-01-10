@@ -129,7 +129,7 @@ The following providers are available in Erlang LS:
 | Provider Name               | Purpose                                                                       | Default  |
 |-----------------------------|-------------------------------------------------------------------------------|----------|
 | text-document-sync          | Synchronize the document state between client and server                      | enabled  |
-| hover                       | Provide docmuentation for the symbol under the cursor on hover                | enabled  |
+| hover                       | Provide documentation for the symbol under the cursor on hover                | enabled  |
 | completion                  | Provide auto-completion candidates for partial symbols                        | enabled  |
 | signature-help              | Provide documentation for the current function and parameters on-type         | disabled |
 | definition                  | Jump to the definition of a given symbol                                      | enabled  |
